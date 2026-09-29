@@ -69,4 +69,4 @@ print("Nettoyé")
 
 # ----
 # Fouad El Berbri
-# Business Analyst — Direction Supply Chain C.E.T & Master Data
+# Business Analyst — Direction Supply Chain C.E.T & Master Data - Carrefour
